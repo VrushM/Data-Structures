@@ -1,0 +1,8 @@
+# cook your dish here
+
+if __name__ == '__main__':
+    a,b,c,d = input().split()
+    t1 = (int(a))*(int(c))
+    t2 = (int(b))*(int(d))
+    print(t1+t2)
+    
